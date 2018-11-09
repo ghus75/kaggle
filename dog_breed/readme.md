@@ -7,3 +7,6 @@
     
     In progress -- current ranking 197/846 - top 24%
     runs on AWS EC2 instance (Deep Learning AMI CUDA 8 Ubuntu)
+
+
+dog-breed-identification_cropping_tests.ipynb is for testing automatic cropping of dogs udising max pooling layers of VGG16
