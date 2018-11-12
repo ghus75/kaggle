@@ -9,4 +9,4 @@
     runs on AWS EC2 instance (Deep Learning AMI CUDA 8 Ubuntu)
 
 
-dog-breed-identification_cropping_tests.ipynb is for testing automatic cropping of dogs udising max pooling layers of VGG16
+Some smaller notebook for tests on sample data (automatic cropping of dogs using max pooling layers of VGG16, use python generators for batch management)
