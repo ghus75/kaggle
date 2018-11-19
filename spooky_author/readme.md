@@ -4,7 +4,6 @@ Spooky Author identification :
   
     Text recognition task : recognize excerpts from Mary Shelley, Edgar Allan Poe, H.P. Lovecraft
     
-    inspired from Facebook Ai FastText model https://arxiv.org/pdf/1607.04606.pdf 
-    runs on laptop CPU in no time
+    Inspired from Facebook Ai FastText model https://arxiv.org/pdf/1607.04606.pdf, runs on laptop CPU in no time
     ranked 312/1244
  
