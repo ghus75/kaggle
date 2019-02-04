@@ -6,4 +6,5 @@ see
 for details & input data files
 
 Predict future sales using shop sales data from 1C company
+
 Baseline notebook using XGBoost
