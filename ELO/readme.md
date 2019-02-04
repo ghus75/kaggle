@@ -4,4 +4,5 @@ see
 for details and input data
 
 Prediction of customer loyalty score using anonymized data from ELO
+
 Uses lightbm w/ Kfold validation
