@@ -10,3 +10,4 @@
 
 
 Some smaller notebook for tests on sample data (automatic cropping of dogs using max pooling layers of VGG16, use python generators for batch management)
+![Alt text](dog-breed-identification/index.png?raw=true "Title")
